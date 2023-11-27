@@ -1,1 +1,1 @@
-# python-key-sequence-counter
+# Python Key Sequence Counter
